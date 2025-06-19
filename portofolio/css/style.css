@@ -1,0 +1,21 @@
+.content {
+    background-color: beige;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.sidebar {
+    background-color: beige;
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid rgb(63, 43, 13);
+}
+
+.img {
+    height: auto;
+    max-width: 100%;
+}
+
+.box1{
+height: 800px;
+}
